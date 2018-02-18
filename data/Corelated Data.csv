@@ -1,0 +1,5 @@
+Table Name,Stored Procedure
+tb_Mapping_Branch,stp_ConfirmDCS_ProcessData
+tb_Owner_SPN_Mapping,stp_ConfirmDCS_ProcessData
+tb_Mapping_Branch,stp_PastValue_ProcessData
+tb_CBDMaster,stp_ConfirmDCS_ProcessData
